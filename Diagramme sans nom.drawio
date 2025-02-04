@@ -141,7 +141,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="1X2CCtmA8XzR30UjK2lz" name="Page-3">
-    <mxGraphModel dx="1467" dy="1038" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1239" dy="816" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -176,25 +176,25 @@
         <mxCell id="ZqLE5YxAtE8_xnJ-e6up-5" value="Utilisateur" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="-253" y="328" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZqLE5YxAtE8_xnJ-e6up-6" value="CU-1.3.1: Configurer la langue" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ZqLE5YxAtE8_xnJ-e6up-6" value="CU-1.2.1: Configurer la langue" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-43" y="33" width="135" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ZqLE5YxAtE8_xnJ-e6up-7" value="CU-1.3.2: Adapter le profil pour les problèmes de dyslexie" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ZqLE5YxAtE8_xnJ-e6up-7" value="CU-1.2.2: Adapter le profil pour les problèmes de dyslexie" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-43" y="140" width="153" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ZqLE5YxAtE8_xnJ-e6up-8" value="CU-1.3.3: Changer le thème" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ZqLE5YxAtE8_xnJ-e6up-8" value="CU-1.2.3: Changer le thème" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-43" y="252" width="135" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ZqLE5YxAtE8_xnJ-e6up-11" value="CU-1.3.4: Changer l&#39;avatar" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ZqLE5YxAtE8_xnJ-e6up-11" value="CU-1.2.4: Changer l&#39;avatar" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-43" y="356" width="135" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ZqLE5YxAtE8_xnJ-e6up-15" value="CU-1.3.5: Voir ses statistiques" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ZqLE5YxAtE8_xnJ-e6up-15" value="CU-1.2.5: Voir ses statistiques" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-44.32" y="464" width="135" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ZqLE5YxAtE8_xnJ-e6up-16" value="CU-1.3.6: Voir le classement des joueurs" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ZqLE5YxAtE8_xnJ-e6up-16" value="CU-1.2.6: Voir le classement des joueurs" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-44.32" y="559" width="135" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ZqLE5YxAtE8_xnJ-e6up-19" value="CU-1.3.7: Changer son profil d&#39;avatar" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ZqLE5YxAtE8_xnJ-e6up-19" value="CU-1.2.7: Changer son profil d&#39;avatar" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-43" y="650" width="135" height="80" as="geometry" />
         </mxCell>
       </root>
