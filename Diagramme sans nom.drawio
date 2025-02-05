@@ -201,7 +201,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="-sAchOEbQQJXg7drektv" name="Page-4">
-    <mxGraphModel dx="1239" dy="816" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1303" dy="878" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -304,7 +304,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="sNLo0yQsrZqZZDMrthMt-1" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="-277.62" y="-313.38" width="357.6" height="303.35" as="geometry" />
+          <mxGeometry x="-388.86" y="-202.14" width="580.06" height="303.35" as="geometry" />
         </mxCell>
         <mxCell id="sNLo0yQsrZqZZDMrthMt-2" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="sNLo0yQsrZqZZDMrthMt-5" target="sNLo0yQsrZqZZDMrthMt-7">
           <mxGeometry relative="1" as="geometry">
@@ -316,11 +316,19 @@
         <mxCell id="sNLo0yQsrZqZZDMrthMt-3" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="sNLo0yQsrZqZZDMrthMt-5" target="sNLo0yQsrZqZZDMrthMt-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sNLo0yQsrZqZZDMrthMt-4" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="sNLo0yQsrZqZZDMrthMt-5" target="sNLo0yQsrZqZZDMrthMt-8">
+        <mxCell id="sNLo0yQsrZqZZDMrthMt-4" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="sNLo0yQsrZqZZDMrthMt-5" target="UfDSEIxONeBfoNVBu0pA-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-164.99999999999864" y="-51" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UfDSEIxONeBfoNVBu0pA-4" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="sNLo0yQsrZqZZDMrthMt-5" target="UfDSEIxONeBfoNVBu0pA-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UfDSEIxONeBfoNVBu0pA-5" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="sNLo0yQsrZqZZDMrthMt-5" target="UfDSEIxONeBfoNVBu0pA-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sNLo0yQsrZqZZDMrthMt-5" value="Utilisateur" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="-383.56" y="-193" width="30" height="60" as="geometry" />
+          <mxGeometry x="-388.86" y="-80.46" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sNLo0yQsrZqZZDMrthMt-6" value="CU-1.0: Rechercher des amis&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-165" y="-310" width="135" height="80" as="geometry" />
@@ -328,8 +336,14 @@
         <mxCell id="sNLo0yQsrZqZZDMrthMt-7" value="CU-1.2: Consulter la liste d&#39;amis" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-165" y="-203" width="130" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="sNLo0yQsrZqZZDMrthMt-8" value="CU-1.3: Recevoir des demandes d&#39;amis" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UfDSEIxONeBfoNVBu0pA-1" value="CU-1.3: Envoyer des demandes d&#39;amis" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-165" y="-91" width="135" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UfDSEIxONeBfoNVBu0pA-2" value="CU-1.4: Accepter des demandes d&#39;amis" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-166.33" y="22" width="135" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UfDSEIxONeBfoNVBu0pA-3" value="CU-1.5: Refuser des demandes d&#39;amis" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-166.33" y="135" width="135" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
